@@ -91,7 +91,6 @@ nav p {
 .intro p {
   color: #aeadad;
   margin: 1.3rem 0 2rem;
-  width: 25.75rem;
 }
 
 .skills {
@@ -263,4 +262,8 @@ form {
     align-items: flex-start;
     justify-content: space-between;
   }
+
+.intro p {
+width: 25.75rem;
+}
  }
